@@ -1,5 +1,6 @@
 ## Topics
-*[machine-configuration]
+* [pre-requisite](Pre-Requisite)
+** [machine-configuration](Machine Configuration)
 
 ## Pre-Requisite
 Please ensure that the following are prepared so to make sure that the training session could be operating smoothly.
