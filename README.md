@@ -7,7 +7,6 @@
 Please ensure that the following are prepared so to make sure that the training session could be operating smoothly.
 
 ### System & Hardware Configuration
-* Hardware
 * Memory (RAM): 10GB minimum
 * Operating system: Windows 10
 * Java JDK: 1.8 and above         
