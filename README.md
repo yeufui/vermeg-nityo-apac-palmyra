@@ -1,6 +1,6 @@
 ## Topics
 * [Pre-Requisite](#pre-requisite)
-	* [System & Hardware Configuration](#machine-configuration)
+	* [System & Hardware Configuration](#system--hardware-configuration)
 	* [Software Tools](#software-tools)
     
 ## Pre-Requisite
