@@ -4,7 +4,7 @@
 	* [Software Tools](#software-tools)
     
 ## Pre-Requisite
-Please ensure that the following are prepared so to make sure that the training session could be operating smoothly.
+_Please ensure that the following are prepared so to make sure that the training session could be operating smoothly._
 
 ### System & Hardware Configuration
 * Memory (RAM): 10GB minimum
@@ -23,7 +23,7 @@ Please ensure that the following are prepared so to make sure that the training 
 * Database: MySQL 5.7.x
 * DBMS client tool, for example: MysqlBench, Oracle SqlDeveloper, etc.
 
---
+---
 ## Overall Schedule
 ## Agenda: Day 1
 ## Agenda: Day 2
