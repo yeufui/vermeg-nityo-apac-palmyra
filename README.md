@@ -1,6 +1,6 @@
 ## Topics
-* [#pre-requisite](Pre-Requisite)
-  * [#machine-configuration](Machine Configuration)
+* [Pre-Requisite](#pre-requisite)
+  * [Machine Configuration](#machine-configuration)
   *
 
 ## Pre-Requisite
