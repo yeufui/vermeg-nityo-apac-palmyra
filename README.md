@@ -2,6 +2,7 @@
 * [Pre-Requisite](#pre-requisite)
 	* [System & Hardware Configuration](#system--hardware-configuration)
 	* [Software Tools](#software-tools)
+* [Overall Schedule](#overall-schedule)
     
 ## Pre-Requisite
 _Please ensure that the following are prepared so to make sure that the training session could be operating smoothly._
