@@ -35,13 +35,8 @@ _Please ensure that the following are prepared so to make sure that the training
 ## Overall Schedule
 This training program is for experience developers who wish to use Palmyra Platform & Tools to help in speeding up as well as improving the efficiency in developing applciations and services. A 5 day course that explore the various components and features of the Palmyra. Developing an application using Palmyra that touches various important features of Palmyra. However, this program is meant to provide the foundation knowledge as it only touches the surface of the platform, objectives is to provide enough information for developers to understand the platform in order to explore further on the platform for more advance features or topics such as Microservices, Enterprise Integration, Business Process Management, etc.  
 
-* __Day 1__, Provide an overview of Palmyra Platform, and setting up the development environment to be ready for the development exercises of the following days.
-* __Day 2__, Business Modeling (Entity & LifeCycle), and develop your first palmyra application.
-* __Day 3__, Adding rules & data integrity to your model, and implementing your business services.
-* __Day 4__, Applying security to your application, and adding reporting capabilities to your application.
-* __Day 5__, Build a simple UI to your application using Palmyra Frontend Development tool. 
-
 ### Agenda: Day 1
+Provide an overview of Palmyra Platform, and setting up the development environment to be ready for the development exercises of the following days.
 Time Slot   | Activity
 ------------|---------
 1000 - 1100 | Topic Presentation (Slides)
@@ -50,6 +45,7 @@ Time Slot   | Activity
 1400 - 1600 | Q & A, Exercises
 
 ### Agenda: Day 2
+Business Modeling (Entity & LifeCycle), and develop your first palmyra application.
 Time Slot   | Activity
 ------------|---------
 0945 - 1000 | Recap
@@ -59,6 +55,7 @@ Time Slot   | Activity
 1400 - 1600 | Q & A, Exercises
 
 ### Agenda: Day 3
+Adding rules & data integrity to your model, and implementing your business services.
 Time Slot   | Activity
 ------------|---------
 0945 - 1000 | Recap
@@ -68,6 +65,7 @@ Time Slot   | Activity
 1400 - 1600 | Q & A, Exercises
 
 ### Agenda: Day 4
+Applying security to your application, and adding reporting capabilities to your application.
 Time Slot   | Activity
 ------------|---------
 0945 - 1000 | Recap
@@ -77,6 +75,7 @@ Time Slot   | Activity
 1400 - 1600 | Q & A, Exercises
 
 ### Agenda: Day 5
+Build a simple UI to your application using Palmyra Frontend Development tool.
 Time Slot   | Activity
 ------------|---------
 0945 - 1000 | Recap
