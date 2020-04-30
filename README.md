@@ -55,7 +55,7 @@ Time Slot   | Activity
 1400 - 1600 | Q & A, Exercises
 
 ### Agenda: Day 3
-Adding rules & data integrity to your model, and implementing your business services.
+Adding rules & data integrity & persistent to your model, and implementing your business services.
 Time Slot   | Activity
 ------------|---------
 0945 - 1000 | Recap
@@ -65,7 +65,7 @@ Time Slot   | Activity
 1400 - 1600 | Q & A, Exercises
 
 ### Agenda: Day 4
-Applying security to your application, and adding reporting capabilities to your application.
+Applying security to your application, and adding reporting, scheduler, SLA, IODriver, Output device capabilities to your application.
 Time Slot   | Activity
 ------------|---------
 0945 - 1000 | Recap
