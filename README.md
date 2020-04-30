@@ -3,6 +3,14 @@
 	* [System & Hardware Configuration](#system--hardware-configuration)
 	* [Software Tools](#software-tools)
 * [Overall Schedule](#overall-schedule)
+	* [Day 1](#agenda-day-1)
+	* [Day 2](#agenda-day-2)
+	* [Day 3](#agenda-day-3)
+	* [Day 4](#agenda-day-4)
+	* [Day 5](#agenda-day-5)
+* [Environment Setup](#environment-setup)
+	* [Palmyra IDE](#palmyra-ide)
+	* [Palmyra Studio](#palmyra-studio)
     
 ## Pre-Requisite
 _Please ensure that the following are prepared so to make sure that the training session could be operating smoothly._
@@ -33,10 +41,50 @@ This training program is for experience developers who wish to use Palmyra Platf
 * __Day 4__, Applying security to your application, and adding reporting capabilities to your application.
 * __Day 5__, Build a simple UI to your application using Palmyra Frontend Development tool. 
 
----
-*work-in-progress*
-## Agenda: Day 1
-## Agenda: Day 2
-## Agenda: Day 3
-## Agenda: Day 4
-## Agenda: Day 5
+### Agenda: Day 1
+Time Slot   | Activity
+------------|---------
+1000 - 1100 | Topic Presentation (Slides)
+1100 - 1200 | Demo
+1200 - 1400 | Lunch Break
+1400 - 1600 | Q & A, Exercises
+
+### Agenda: Day 2
+Time Slot   | Activity
+------------|---------
+0945 - 1000 | Recap
+1000 - 1100 | Topic Presentation (Slides)
+1100 - 1200 | Demo
+1200 - 1400 | Lunch Break
+1400 - 1600 | Q & A, Exercises
+
+### Agenda: Day 3
+Time Slot   | Activity
+------------|---------
+0945 - 1000 | Recap
+1000 - 1100 | Topic Presentation (Slides)
+1100 - 1200 | Demo
+1200 - 1400 | Lunch Break
+1400 - 1600 | Q & A, Exercises
+
+### Agenda: Day 4
+Time Slot   | Activity
+------------|---------
+0945 - 1000 | Recap
+1000 - 1100 | Topic Presentation (Slides)
+1100 - 1200 | Demo
+1200 - 1400 | Lunch Break
+1400 - 1600 | Q & A, Exercises
+
+### Agenda: Day 5
+Time Slot   | Activity
+------------|---------
+0945 - 1000 | Recap
+1000 - 1100 | Topic Presentation (Slides)
+1100 - 1200 | Demo
+1200 - 1400 | Lunch Break
+1400 - 1600 | Q & A, Exercises
+
+## Environment Setup
+### Palmyra IDE
+### Palmyra Studio
